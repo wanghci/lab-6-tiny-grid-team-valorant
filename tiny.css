@@ -1,0 +1,14 @@
+@media (max-width: 375px) {
+
+    header,
+    nav,
+    aside,
+    .ad,
+    footer {
+        display: none;
+    }
+
+    main {
+        width: 100%;
+    }
+}
